@@ -1,0 +1,780 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.0625em;
+    margin-top: 50px;
+    height: 21px;
+    align-self: center
+  }
+  .filldetailscontainer1row1 {
+    display: flex;
+    margin-left: 43px;
+    margin-top: 23px;
+    width: 70px;
+    height: 19px
+  }
+  .style14 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: .9375em;
+    height: 100%;
+    align-self: stretch
+  }
+  .style20,
+  .style7 {
+    background-color: #fff;
+    margin-top: 14px;
+    width: 0;
+    height: 0
+  }
+  .style20 {
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    width: 310px;
+    height: 40px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: .9375em;
+    font-weight: 300;
+    margin-left: 19px;
+    height: 19px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: .9375em;
+    font-weight: 300;
+    margin-left: 19px;
+    height: 19px
+  }
+  .style22 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style17 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: .9375em;
+    font-weight: 300;
+    margin-left: 19px;
+    height: 19px
+  }
+  .style23 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: .9375em;
+    font-weight: 300;
+    margin-left: 19px;
+    height: 19px
+  }
+  .style24 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style19 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: .9375em;
+    font-weight: 300;
+    margin-left: 19px;
+    height: 19px
+  }
+  .style12 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style13 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: .9375em;
+    height: 19px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.176em;
+    margin-top: 102px;
+    height: 43px;
+    align-self: center
+  }
+  .filldetailscontainer1row1 {
+    display: flex;
+    margin-left: 88px;
+    margin-top: 47px;
+    width: 143px;
+    height: 39px
+  }
+  .style14 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.92em;
+    height: 100%;
+    align-self: stretch
+  }
+  .style20,
+  .style7 {
+    background-color: #fff;
+    margin-top: 29px;
+    width: 0;
+    height: 0
+  }
+  .style20 {
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    width: 635px;
+    height: 82px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 1.92em;
+    font-weight: 300;
+    margin-left: 39px;
+    height: 39px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 1.92em;
+    font-weight: 300;
+    margin-left: 39px;
+    height: 39px
+  }
+  .style22 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style17 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 1.92em;
+    font-weight: 300;
+    margin-left: 39px;
+    height: 39px
+  }
+  .style23 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 1.92em;
+    font-weight: 300;
+    margin-left: 39px;
+    height: 39px
+  }
+  .style24 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style19 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 1.92em;
+    font-weight: 300;
+    margin-left: 39px;
+    height: 39px
+  }
+  .style12 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style13 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 1.92em;
+    height: 39px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.6066666666666665em;
+    margin-top: 123px;
+    height: 52px;
+    align-self: center
+  }
+  .filldetailscontainer1row1 {
+    display: flex;
+    margin-left: 105px;
+    margin-top: 56px;
+    width: 172px;
+    height: 47px
+  }
+  .style14 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.3em;
+    height: 100%;
+    align-self: stretch
+  }
+  .style20,
+  .style7 {
+    background-color: #fff;
+    margin-top: 34px;
+    width: 0;
+    height: 0
+  }
+  .style20 {
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    width: 761px;
+    height: 98px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    margin-left: 47px;
+    height: 47px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    margin-left: 47px;
+    height: 47px
+  }
+  .style22 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style17 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    margin-left: 47px;
+    height: 47px
+  }
+  .style23 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    margin-left: 47px;
+    height: 47px
+  }
+  .style24 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style19 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    margin-left: 47px;
+    height: 47px
+  }
+  .style12 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style13 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 2.3em;
+    height: 47px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.4000000000000004em;
+    margin-top: 160px;
+    height: 67px;
+    align-self: center
+  }
+  .filldetailscontainer1row1 {
+    display: flex;
+    margin-left: 138px;
+    margin-top: 74px;
+    width: 224px;
+    height: 61px
+  }
+  .style14 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3em;
+    height: 100%;
+    align-self: stretch
+  }
+  .style20,
+  .style7 {
+    background-color: #fff;
+    margin-top: 45px;
+    width: 0;
+    height: 0
+  }
+  .style20 {
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    width: 992px;
+    height: 128px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 3em;
+    font-weight: 300;
+    margin-left: 61px;
+    height: 61px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 3em;
+    font-weight: 300;
+    margin-left: 61px;
+    height: 61px
+  }
+  .style22 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style17 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 3em;
+    font-weight: 300;
+    margin-left: 61px;
+    height: 61px
+  }
+  .style23 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 3em;
+    font-weight: 300;
+    margin-left: 61px;
+    height: 61px
+  }
+  .style24 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style19 {
+    color: rgba(255,255,255,.6499999761581421);
+    font-family: sfuidisplay,serif;
+    font-size: 3em;
+    font-weight: 300;
+    margin-left: 61px;
+    height: 61px
+  }
+  .style12 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style13 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 3em;
+    height: 61px
+  }
+}
